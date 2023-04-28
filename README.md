@@ -7,6 +7,7 @@ Here are some teams in our course project who successfully went through all grou
 *  [Team H](https://csci3251-2023.github.io/project-team-h/)
 *  [Team I](https://csci3251-2023.github.io/project-team-i/)
 *  [Team B](https://csci3251-2023.github.io/project-team-b/)
+*  [Team K](https://csci3251-2023.github.io/project-team-k/)
   
 For more details, contact @chuckjee regarding course issues.
 
